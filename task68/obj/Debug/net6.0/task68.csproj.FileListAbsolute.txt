@@ -1,0 +1,15 @@
+D:\учеба\Lesson_9\task68\obj\Debug\net6.0\task68.csproj.AssemblyReference.cache
+D:\учеба\Lesson_9\task68\obj\Debug\net6.0\task68.GeneratedMSBuildEditorConfig.editorconfig
+D:\учеба\Lesson_9\task68\obj\Debug\net6.0\task68.AssemblyInfoInputs.cache
+D:\учеба\Lesson_9\task68\obj\Debug\net6.0\task68.AssemblyInfo.cs
+D:\учеба\Lesson_9\task68\obj\Debug\net6.0\task68.csproj.CoreCompileInputs.cache
+D:\учеба\Lesson_9\task68\bin\Debug\net6.0\task68.exe
+D:\учеба\Lesson_9\task68\bin\Debug\net6.0\task68.deps.json
+D:\учеба\Lesson_9\task68\bin\Debug\net6.0\task68.runtimeconfig.json
+D:\учеба\Lesson_9\task68\bin\Debug\net6.0\task68.dll
+D:\учеба\Lesson_9\task68\bin\Debug\net6.0\task68.pdb
+D:\учеба\Lesson_9\task68\obj\Debug\net6.0\task68.dll
+D:\учеба\Lesson_9\task68\obj\Debug\net6.0\refint\task68.dll
+D:\учеба\Lesson_9\task68\obj\Debug\net6.0\task68.pdb
+D:\учеба\Lesson_9\task68\obj\Debug\net6.0\task68.genruntimeconfig.cache
+D:\учеба\Lesson_9\task68\obj\Debug\net6.0\ref\task68.dll

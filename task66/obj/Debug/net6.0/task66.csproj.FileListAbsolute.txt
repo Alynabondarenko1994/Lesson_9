@@ -1,0 +1,15 @@
+D:\учеба\Lesson_9\task66\bin\Debug\net6.0\task66.exe
+D:\учеба\Lesson_9\task66\bin\Debug\net6.0\task66.deps.json
+D:\учеба\Lesson_9\task66\bin\Debug\net6.0\task66.runtimeconfig.json
+D:\учеба\Lesson_9\task66\bin\Debug\net6.0\task66.dll
+D:\учеба\Lesson_9\task66\bin\Debug\net6.0\task66.pdb
+D:\учеба\Lesson_9\task66\obj\Debug\net6.0\task66.csproj.AssemblyReference.cache
+D:\учеба\Lesson_9\task66\obj\Debug\net6.0\task66.GeneratedMSBuildEditorConfig.editorconfig
+D:\учеба\Lesson_9\task66\obj\Debug\net6.0\task66.AssemblyInfoInputs.cache
+D:\учеба\Lesson_9\task66\obj\Debug\net6.0\task66.AssemblyInfo.cs
+D:\учеба\Lesson_9\task66\obj\Debug\net6.0\task66.csproj.CoreCompileInputs.cache
+D:\учеба\Lesson_9\task66\obj\Debug\net6.0\task66.dll
+D:\учеба\Lesson_9\task66\obj\Debug\net6.0\refint\task66.dll
+D:\учеба\Lesson_9\task66\obj\Debug\net6.0\task66.pdb
+D:\учеба\Lesson_9\task66\obj\Debug\net6.0\task66.genruntimeconfig.cache
+D:\учеба\Lesson_9\task66\obj\Debug\net6.0\ref\task66.dll
